@@ -1,7 +1,7 @@
 # Single Player Pong Game
 created using python
 
-![game-image](/images/game.png)
+![game-image](/images/pong-game.png)
 
 To play the game
 Download python on your local system from the below link
