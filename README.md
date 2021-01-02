@@ -8,5 +8,5 @@ created using python
 https://www.python.org/
 2) Download the above files by running the below command on teminal/shell\
 git clone https://github.com/aniket2611/Pong-game
-3) go to the directory where the you downloaded the files and run the command - python main.py to start the game
+3) go to the directory where you downloaded the files and run the command - python main.py to start the game
 4) now you can play the game
